@@ -8,7 +8,7 @@ describe('decrementIfLessThanFirst', () => {
     expect(decrementlessthanfirst(input)).toEqual(output);
   });
 });
-/*fail test case */
+/*fail test case - fixed! */
 describe('decrementIfLessThanFirst', () => {
 it ('fail with wrong output', () => {
     const input = [5,2,6,3];
