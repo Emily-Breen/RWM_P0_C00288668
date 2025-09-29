@@ -1,0 +1,5 @@
+- Merging the Submit variant option from branch C and using the disabled option from branch D as they do different things so they dont conflict in purpose. Putting them together makes 
+the button more useful - you can change how it looks and how it behaves
+
+- Merging the different button types from primary and secondary using the data variant tag and keeping the style to make the button look faded and unclickable when its disabled. 
+These styles affect different things, so they dont clash. keeping both makes it look better
